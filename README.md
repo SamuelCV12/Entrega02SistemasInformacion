@@ -1,4 +1,4 @@
-Sistemas de Información - Quipux S.A.S.
+# Sistemas de Información - Quipux S.A.S.
 
 ## 🛠️ Especificación de la Solución Propuesta
 
